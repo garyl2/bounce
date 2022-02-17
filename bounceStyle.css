@@ -5,3 +5,16 @@ html, body {
 canvas {
   display: block;
 }
+body{
+  background-color: #d2b48c;
+  margin-left: 20%;
+  margin-right: 20%;
+  border: 2px dotted black;
+  font-family: san-serif;
+}
+h1{
+  color: white;
+}
+h2{
+  color: green;
+}
